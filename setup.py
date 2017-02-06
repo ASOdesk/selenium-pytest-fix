@@ -50,6 +50,7 @@ setup_args = {
                     'Programming Language :: Python :: 3.5',
                     'Programming Language :: Python :: 3.6'],
     'package_dir': {
+        '': 'py',
         'selenium': 'py/selenium',
         'selenium.common': 'py/selenium/common',
         'selenium.webdriver': 'py/selenium/webdriver',
